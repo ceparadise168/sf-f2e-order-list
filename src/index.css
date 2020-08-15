@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, '微軟正黑體', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 20px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+table {
+  border: 1px solid #E5E5E5;
+}
+
+tr {
+  border: 1px solid #E5E5E5;
+}
+
+td {
+  padding: 10px;
+}
+
+.pendingText {
+  color: #45B035;
+}
